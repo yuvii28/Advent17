@@ -7,7 +7,7 @@
 
 int main(int argc, char* argv[]){
 	std::ifstream in;
-	in.open("input.txt");
+	in.open("input2.txt");
 	
 	//Set up numbers
 	std::vector<int> hash;

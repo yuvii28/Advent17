@@ -5,124 +5,158 @@
 #include <vector>
 #include <set>
 #include <algorithm>
-#include <memory>
+#include <map>
 
-class disc{
-public:
-	disc(std::string name, int weight): name_{name}, weight_{weight}
-	{ }
-
-	inline std::string getName(){return name_;}
-	inline int getWeight(){return weight_;}
-	inline std::vector<std::string> getChildren(){return children_;}
-
-	void setName(std::string name) {name_ = name;}
-
-	void setWeight(int weight){weight_ = weight;}
-
-	void addChild(std::string child){
-		children_.push_back(child);
-	}
-
-private:
-	//Disc has name, weight and list of children names
-	std::string name_;
-	int weight_;
-	std::vector<std::string> children_;
-};
-
-//Given a disc, get weight
-int getWeight(disc d, std::vector<std::shared_ptr<disc>> discs){
-	int childrenWeight = 0;
-	auto children = d.getChildren();
-	for (auto i = children.begin(); i != children.end(); i++){
-		//Find disc of matching name
-		for (auto j = discs.begin(); j != discs.end(); j++){
-			if ((*j).get()->getName() == (*i)){
-				childrenWeight += getWeight(*(*j).get(), discs);
-				break;
-			}
-		}
-	}
-	return d.getWeight() + childrenWeight;
-}
-
+int getWeight(std::string name, std::map<std::string, int> &weights, 
+	std::map<std::string, std::vector<std::string>> &children, std::map<std::string, int> &totalWeights);
+bool isValid(std::string name, std::map<std::string, int> &weights, 
+	std::map<std::string, std::vector<std::string>> &children, std::map<std::string, int> &totalWeights);
 
 int main(int argc, char* argv[]){
 	std::ifstream in;
 	in.open("input.txt");
 	
-	std::string words;
+	std::string line;
 	std::string word;
 
-	//Vector containing all parent names
-	std::vector<std::string> parents;
-	std::vector<std::shared_ptr<disc>> discs;
+	std::vector<std::string> pipes;
+	std::map<std::string, int> weights;
+	std::map<std::string, int> totalWeights;
+
+	std::map<std::string, std::vector<std::string>> children;
 
 	//Read over lines
-	while (std::getline(in, words)){
-		std::istringstream iss(words);
-		std::vector<std::string> line;
-		disc d{"", 0};
+	while (std::getline(in, line)){
+		std::istringstream iss(line);
 		//read each word
 		std::string name = "";
-		int weight = 0;
+
 		while (iss >> word){
+			auto found = word.find_first_of("-");
+			if (found != std::string::npos){
+				continue;
+			}
 			//Is it first word
 			if (name == ""){
 				name = word;
+				pipes.push_back(name);
 				continue;
 			}
+
 			//Is it the weight
-			auto found = word.find_first_of("(");
+			found = word.find_first_of("(");
 			if (found != std::string::npos){
 				word.erase(0, 1);
 				word.erase(word.size()-1, 1);
-				weight = std::stoi(word);
-				//Make disc
-				d.setName(name);
-				d.setWeight(weight);
+				int weight = std::stoi(word);
+				//Store
+				weights[name] = weight;
+				children[name] = {};
 				continue;
 			}
+
 			//Check its disc name
 			found = word.find_first_of(",");
 			if (found != std::string::npos){
 				word.erase(word.size()-1, 1);
 			}
-			//add to list of children
-			d.addChild(word);
-		}
-		discs.push_back(std::make_shared<disc>(d));
-	}
-	for (auto i = discs.begin(); i != discs.end(); i++){
-		std::vector<int> weights;
-		//For every disc, check its children weights
-		auto children = (*i).get()->getChildren();
+			children[name].push_back(word);
 
-		for (auto j = children.begin(); j != children.end(); j++){
-			//Find disc of matching name
-			for (auto k = discs.begin(); k != discs.end(); k++){
-				if ((*k).get()->getName() == (*j)){
-					weights.push_back(getWeight(*(*k).get(), discs));
+		}
+
+	}
+	in.close();
+
+	//Pipe is valid if all children have same weight
+	for (auto i = pipes.begin(); i != pipes.end(); i++){
+		std::vector<int> w;
+		for (auto j = children[*i].begin(); j != children[*i].end(); j++){
+			//get childs weight
+			w.push_back(getWeight(*j, weights, children, totalWeights));
+		}
+		//Check each weight for a difference
+		if (w.size() > 1){
+			for (size_t j = 0; j < w.size()-1; j++){
+				if (w[j] != w[j+1] && isValid(*i, weights, children, totalWeights)){
+					std::cout << *i << " has a mistake\n";
+					if (j == 0){
+						if (w[j] == w[j+2]){
+							if (w[j] > w[j+1]){
+								//Mistake in j+1
+								std::cout << (weights[children[*i][j+1]]) + std::abs(w[j+1] - w[j]);								
+							} else {
+								//Mistake in j+1
+								std::cout << (weights[children[*i][j+1]]) - std::abs(w[j+1] - w[j]);								
+							}
+						} else {
+							if (w[j] < w[j+1]){
+								//Mistake in j
+								std::cout << (weights[children[*i][j]]) + std::abs(w[j+1] - w[j]);								
+							} else {
+								//Mistake in j
+								std::cout << (weights[children[*i][j]]) - std::abs(w[j+1] - w[j]);								
+							}
+						}
+					} else {
+						if (w[j] == w[j-1]){
+							if (w[j] > w[j+1]){
+								//Mistake in j+1
+								std::cout << (weights[children[*i][j+1]]) + std::abs(w[j+1] - w[j]);								
+							} else {
+								//Mistake in j+1
+								std::cout << (weights[children[*i][j+1]]) - std::abs(w[j+1] - w[j]);								
+							}
+						} else {
+							if (w[j] < w[j+1]){
+								//Mistake in j
+								std::cout << (weights[children[*i][j]]) + std::abs(w[j+1] - w[j]);								
+							} else {
+								//Mistake in j
+								std::cout << (weights[children[*i][j]]) - std::abs(w[j+1] - w[j]);								
+							}
+						}
+					}
+					std::cout << std::endl;
 					break;
 				}
-			}
+			}			
 		}
 
-		std::sort(weights.begin(), weights.end());
-		//Check each childs weights
-		for (int index = 0; index < int(weights.size())-1; index++){
-			if (weights[index] != weights[index+1]){
-				if (index == 0){
-					std::cout << weights[index+1] << "\n";					
-				} else {
-					std::cout << weights[index] << "\n";
-				}
-				break;
-			}
-		}
 	}
 
-	in.close();	
 	return 0;
+}
+
+bool isValid(std::string name, std::map<std::string, int> &weights, 
+	std::map<std::string, std::vector<std::string>> &children, std::map<std::string, int> &totalWeights){
+	//Check all children weights are valid
+	std::vector<int> vals;
+	for (auto i = children[name].begin(); i != children[name].end(); i++){
+		vals.push_back(getWeight(name, weights, children, totalWeights));
+	}
+	for (size_t i = 0; i < vals.size()-1; i++){
+		if (vals[i] != vals[i+1]){
+			return false;
+		}
+	}
+	return true;
+}
+
+//Function to determine weight
+int getWeight(std::string name, std::map<std::string, int> &weights, 
+	std::map<std::string, std::vector<std::string>> &children, std::map<std::string, int> &totalWeights){
+
+	//Weight = own weight with weights of all children
+	if (children[name].size() == 0){
+		return weights[name];
+	} else {
+		if (totalWeights.find(name) == totalWeights.end()){
+			int totalWeight = weights[name];
+			for (auto i = children[name].begin(); i != children[name].end(); i++){
+				totalWeight += getWeight(*i, weights, children, totalWeights);
+			}
+			totalWeights[name] = totalWeight;
+		}
+		return totalWeights[name];
+	}
 }

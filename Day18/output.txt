@@ -1,0 +1,2116 @@
+set i 31
+i created
+31 is digit
+set a 1
+a created
+1 is digit
+mul p 17
+p created
+17 is digit
+Multiplying p by 17 as 17
+jgz p p
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+mul a 2
+2 is digit
+Multiplying a by 2 as 2
+add i -1
+-1 is digit
+jgz i -2
+add a -1
+-1 is digit
+set i 127
+127 is digit
+set p 464
+464 is digit
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+b created
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+mul p 8505
+8505 is digit
+Multiplying p by 8505 as 8505
+mod p a
+mul p 129749
+Multiplying p by 0 as 129749
+add p 12345
+12345 is digit
+mod p a
+set b p
+mod b 10000
+snd b
+add i -1
+-1 is digit
+jgz i -9
+jgz a 3
+set f 0
+f created
+set i 126
+126 is digit
+rcv a
+12345

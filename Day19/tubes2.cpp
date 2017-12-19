@@ -14,12 +14,13 @@ bool isValid(char c){
 
 int main(int argc, char* argv[]){
 	std::ifstream in;
-	in.open("input2.txt");
+	in.open("input.txt");
 	
 	std::string line;
 
 	std::vector<std::string> map;
 
+	int count = 0;
 	//Read over input
 	while (std::getline(in, line)){
 		map.push_back(line);
@@ -40,6 +41,7 @@ int main(int argc, char* argv[]){
 	}
 
 	while (true){
+		count++;
   		if (dir == 'd'){
 			//Check below
 			if (y < map.size()-1 && isValid(map[y+1][x])){
@@ -147,5 +149,6 @@ int main(int argc, char* argv[]){
 		}
 	}
 	std::cout << std::endl;
+	std::cout << count << std::endl;
 	return 0;
 }

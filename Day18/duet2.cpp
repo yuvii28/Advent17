@@ -5,28 +5,27 @@
 #include <vector>
 #include <map>
 #include <algorithm>
-#include <cctype>
 #include <queue>
 
 bool isDigit(char c){
 	return (c >= '0' && c <= '9');
 }
 
-int getVal(std::string &value, 	std::map<std::string, long long> &registers){
-	int val = 0;
-	//Second value is either a register or number
-	if (isDigit(value[value.size()-1])){
-		val = std::stoi(value);
+//Determine the value of input
+long long getValue(std::string val, std::map<std::string, long long> &registers){
+	if (isDigit(val[val.size()-1])){
+		return std::stol(val);
 	} else {
-		std::string reg2 = value;
-		//Find register -> make new if non exist
-		if (registers.find(reg2) == registers.end()){
-			registers[reg2] = 0;
+		//Check if the register exists
+		if (registers.find(val) == registers.end()){
+			std::cout << "Created " << val << std::endl;
+			registers[val] = 0;
 		}
-		val = registers[reg2];
+		std::cout << "Returning " << registers[val] << " for " << val << std::endl;
+		return registers[val];
 	}
-	return val;
 }
+
 
 int main(int argc, char* argv[]){
 	std::ifstream in;
@@ -43,249 +42,164 @@ int main(int argc, char* argv[]){
 	}
 	in.close();
 
-	int indexA = 0;
-	int indexB = 0;
+	//Start system
+	bool isWaiting0 = false;
+	bool isWaiting1 = false;
 
- 	bool isA = true;
+	bool is0 = true;
 
- 	int sound = 0;
+	int sound = 0;
+	int sounds = 0;
 
-	std::map<std::string, long long> registersA;
-	std::map<std::string, long long> registersB;
+	int index0 = 0;
+	int index1 = 0;
 
-	registersB["p"] = 0;
-	registersB["p"] = 1;
+	std::queue<long long> buffer0;
+	std::queue<long long> buffer1;
 
-	std::queue<long long> bufferA;
-	std::queue<long long> bufferB;
+	std::map<std::string, long long> registers0;
+	std::map<std::string, long long> registers1;
 
+	//Initialise the register1
+	registers1["p"] = 1; 
 
-	while(true){
-		//Determine which register we are working on
-		if (isA){
-			if (indexA < 0 || indexA >= int(instructions.size())){
-				break;
-			}
-			line = instructions[indexA];
+	while (index0 >= 0 && index0 < int(instructions.size()) &&
+	 index1 >= 0 && index1 < int(instructions.size())){
+		//Get instruction
+		if (is0){
+			line = instructions[index0];
 		} else {
-			if (indexB < 0 || indexB >= int(instructions.size())){
-				break;
-			}
-			line = instructions[indexB];
+			line = instructions[index1];
 		}
-		std::cout << line << std::endl;
 		//Split up line
 		std::istringstream iss(line);
 		std::vector<std::string> splitLine;
-
 		//read each word
 		while (iss >> word){
 			splitLine.push_back(word);
 		}
 		std::string instruction = splitLine[0];
+		//Check the Instruction to determine command
 
-		//Run instruction
 		if (instruction == "snd"){
-			if (isA){
-				int val = getVal(splitLine[1], registersA);
-				bufferA.push(val);
+			//Send the value of X to other program
+			sounds++;
+			if (is0){
+				long long X = getValue(splitLine[1], registers0);
+				//Add value to buffer for 0
+				buffer0.push(X);
+				index0++;
+			} else {
+				//Count sounds
 				sound++;
-			} else {
-				int val = getVal(splitLine[1], registersB);
-				bufferB.push(val);
+				long long X = getValue(splitLine[1], registers0);
+				//Add value to buffer for 1
+				buffer1.push(X);
+				index1++;
 			}
-
-		} else if (instruction == "set"){
-			//First value is always a register
-			std::string reg = splitLine[1];
-
-			//Check what we are working on
-			if (isA){
-				if (registersA.find(reg) == registersA.end()){
-					registersA[reg] = 0;
-					std::cout << reg << " created in A\n";
-				}
-				int val = getVal(splitLine[2], registersA);
-				//Set register
-				registersA[reg] = val;				
-			} else {
-				if (registersB.find(reg) == registersB.end()){
-					registersB[reg] = 0;
-					std::cout << reg << " created in B\n";
-				}
-				int val = getVal(splitLine[2], registersB);
-				//Set register
-				registersB[reg] = val;
-			}
-		} else if (instruction == "add"){
-			//First value is always a register
-			std::string reg = splitLine[1];
-
-			//Check what we are working on
-			if (isA){
-				if (registersA.find(reg) == registersA.end()){
-					registersA[reg] = 0;
-					std::cout << reg << " created in A\n";
-				}
-				int val = getVal(splitLine[2], registersA);
-				//Set register
-				registersA[reg] += val;				
-			} else {
-				if (registersB.find(reg) == registersB.end()){
-					registersB[reg] = 0;
-					std::cout << reg << " created in B\n";
-				}
-				int val = getVal(splitLine[2], registersB);
-				//Set register
-				registersB[reg] += val;
-			}
-		} else if (instruction == "mul"){
-			//First value is always a register
-			std::string reg = splitLine[1];
-
-			//Check what we are working on
-			if (isA){
-				if (registersA.find(reg) == registersA.end()){
-					registersA[reg] = 0;
-					std::cout << reg << " created in A\n";
-				}
-				int val = getVal(splitLine[2], registersA);
-				//Set register
-				registersA[reg] *= val;				
-			} else {
-				if (registersB.find(reg) == registersB.end()){
-					registersB[reg] = 0;
-					std::cout << reg << " created in B\n";
-				}
-				int val = getVal(splitLine[2], registersB);
-				//Set register
-				registersB[reg] *= val;
-			}
-		} else if (instruction == "mod"){
-			//First value is always a register
-			std::string reg = splitLine[1];
-
-			//Check what we are working on
-			if (isA){
-				if (registersA.find(reg) == registersA.end()){
-					registersA[reg] = 0;
-					std::cout << reg << " created in A\n";
-				}
-				int val = getVal(splitLine[2], registersA);
-				//Set register
-				if (val != 0){
-					registersB[reg] %= val;
-				}
-			} else {
-				if (registersB.find(reg) == registersB.end()){
-					registersB[reg] = 0;
-					std::cout << reg << " created in B\n";
-				}
-				int val = getVal(splitLine[2], registersB);
-				//Set register
-				if (val != 0){
-					registersB[reg] %= val;
-				}
-			}
-		} else if (instruction == "rcv"){
-			//If both are empty end
-			std::string reg = splitLine[1];
-			if (isA){
-				int val = getVal(reg, registersA);
-				if (val == 0){
-					indexA++;
-					continue;
-				}
-				//Is B also trying to receive?
-				std::string oline = instructions[indexB];
-				if(oline.find("rcv") != std::string::npos){
-					//Both trying to receive
-					//Are they both empty
-					if (bufferA.empty() && bufferB.empty()){
+		} else if (instruction == "rcv") {
+			//Receive the next value from buffer
+			if (is0){
+				//Check if buffer1 has values
+				//If empty, check if a deadlock has occurred
+				if (buffer1.empty()){
+					//Deadlock if both instructions are waiting
+					if (isWaiting0 && isWaiting1){
 						break;
 					}
-				}
-				//Check if it needs to swap streams
-				if (!bufferB.empty()){
-					registersA[reg] = bufferB.front();
-					bufferB.pop();
-				} else {
-					//Swap
-					isA = false;
+					//Otherwise, swap programs and mark waiting
+					is0 = false;
+					isWaiting0 = true;
 					continue;
 				}
-				
+				//If value exists, pop it and continue
+				isWaiting0 = false;
+				std::string reg = splitLine[1];
+				registers0[reg] = buffer1.front();
+
+				buffer1.pop();
+				index0++;
 			} else {
-				int val = getVal(reg, registersB);
-				if (val == 0){
-					indexB++;
-					continue;
-				}
-				//Is B also trying to receive?
-				std::string oline = instructions[indexA];
-				if(oline.find("rcv") != std::string::npos){
-					//Both trying to receive
-					//Are they both empty
-					if (bufferA.empty() && bufferB.empty()){
+				//Check if buffer0 has values
+				//If empty, check if a deadlock has occurred
+				if (buffer0.empty()){
+					//Deadlock if both instructions are waiting
+					if (isWaiting0 && isWaiting1){
 						break;
 					}
-				}				
-			
-				//Check if it needs to swap streams
-				if (!bufferA.empty()){
-					registersB[reg] = bufferA.front();
-					bufferA.pop();
-				} else {
-					//Swap
-					isA = true;
+					//Otherwise, swap programs and mark waiting
+					is0 = true;
+					isWaiting1 = true;
 					continue;
 				}
+				//If value exists, pop it and continue
+				isWaiting1 = false;
+				std::string reg = splitLine[1];
+				registers1[reg] = buffer0.front();
+				buffer0.pop();
+				index1++;
 			}
-
-		} else if (instruction == "jgz"){
-			//First value is always a register
+		} else if (instruction == "set") {
+			//Set next register as value
 			std::string reg = splitLine[1];
-			if (isA){
-				int checkVal = getVal(reg, registersA);
-				if (!isDigit(reg[reg.size()-1])){
-				 	if (registersA.find(reg) == registersA.end()){
-						registersA[reg] = 0;
-						std::cout << reg << " created in A\n";
-					}
-				} 
-				if (checkVal > 0){
-					//Set register
-					int val = getVal(splitLine[2], registersA);
-					indexA += val;
-					continue;
-				}				
+			if (is0){
+				registers0[reg] = getValue(splitLine[2], registers0);
+				index0++;
 			} else {
-				int checkVal = getVal(reg, registersB);
-				if (!isDigit(reg[reg.size()-1])){
-				 	if (registersB.find(reg) == registersB.end()){
-						registersB[reg] = 0;
-						std::cout << reg << " created in B\n";
-					}
+				registers1[reg] = getValue(splitLine[2], registers1);
+				index1++;
+			}
+		} else if (instruction == "add") {
+			//Add Y to X
+			std::string reg = splitLine[1];
+			if (is0){
+				registers0[reg] += getValue(splitLine[2], registers0);
+				index0++;
+			} else {
+				registers1[reg] += getValue(splitLine[2], registers1);
+				index1++;
+			}
+		} else if (instruction == "mul") {
+			//Multiply X by Y
+			std::string reg = splitLine[1];
+			if (is0){
+				registers0[reg] *= getValue(splitLine[2], registers0);
+				index0++;
+			} else {
+				registers1[reg] *= getValue(splitLine[2], registers1);
+				index1++;
+			}
+		} else if (instruction == "mod") {
+			//Modulus X by Y
+			std::string reg = splitLine[1];
+			if (is0){
+				registers0[reg] *= getValue(splitLine[2], registers0);
+				index0++;
+			} else {
+				registers1[reg] *= getValue(splitLine[2], registers1);
+				index1++;
+			}
+		} else if (instruction == "jgz") {
+			//Jump Y based on X
+			if (is0){
+				long long X = getValue(splitLine[1], registers0);
+				if (X > 0){
+					index0 += getValue(splitLine[2], registers0);
+				} else {
+					index0++;
 				}
-
-				if (checkVal > 0){
-					//Set register
-					int val = getVal(splitLine[2], registersB);
-					indexB += val;
-					continue;
+			} else {
+				long long X = getValue(splitLine[1], registers1);
+				if (X > 0){
+					index1 += getValue(splitLine[2], registers1);
+				} else {
+					index1++;
 				}
 			}
-		}
-
-		if (isA){
-			indexA++;			
-		} else {
-			indexB++;
 		}
 	}
-	std::cout << indexA << " " << indexB << std::endl;
+	std::cout << "Program 1 sent " << sound << " times\n";
+	std::cout << "There were a total of " << sounds << "\n";
 
-
-	std::cout << sound << " were sent\n";
 	return 0;
 }

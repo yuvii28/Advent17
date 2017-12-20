@@ -1,2116 +1,4907 @@
-set i 31
-i created
-31 is digit
-set a 1
-a created
-1 is digit
-mul p 17
-p created
-17 is digit
-Multiplying p by 17 as 17
-jgz p p
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-mul a 2
-2 is digit
-Multiplying a by 2 as 2
-add i -1
--1 is digit
-jgz i -2
-add a -1
--1 is digit
-set i 127
-127 is digit
-set p 464
-464 is digit
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-b created
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-mul p 8505
-8505 is digit
-Multiplying p by 8505 as 8505
-mod p a
-mul p 129749
-Multiplying p by 0 as 129749
-add p 12345
-12345 is digit
-mod p a
-set b p
-mod b 10000
-snd b
-add i -1
--1 is digit
-jgz i -9
-jgz a 3
-set f 0
-f created
-set i 126
-126 is digit
-rcv a
-12345
+Returning 0 for p
+Returning 30 for i
+Returning 29 for i
+Returning 28 for i
+Returning 27 for i
+Returning 26 for i
+Returning 25 for i
+Returning 24 for i
+Returning 23 for i
+Returning 22 for i
+Returning 21 for i
+Returning 20 for i
+Returning 19 for i
+Returning 18 for i
+Returning 17 for i
+Returning 16 for i
+Returning 15 for i
+Returning 14 for i
+Returning 13 for i
+Returning 12 for i
+Returning 11 for i
+Returning 10 for i
+Returning 9 for i
+Returning 8 for i
+Returning 7 for i
+Returning 6 for i
+Returning 5 for i
+Returning 4 for i
+Returning 3 for i
+Returning 2 for i
+Returning 1 for i
+Returning 0 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3994144197213031081 for p
+Returning -4241052549131561360 for b
+Returning 126 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1280857245715515346 for p
+Returning 6532070000724638496 for b
+Returning 125 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3802948150820462641 for p
+Returning -7704771784469022192 for b
+Returning 124 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8213712059425174180 for p
+Returning -6230765976891546048 for b
+Returning 123 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1528126796122838939 for p
+Returning 7363868196880651952 for b
+Returning 122 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3585613062515742406 for p
+Returning -4339854133944281504 for b
+Returning 121 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 5915919352170354197 for p
+Returning 485277317009937488 for b
+Returning 120 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2308306619818664776 for p
+Returning -6189361975998688384 for b
+Returning 119 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4176669208855143905 for p
+Returning -3263505673014191376 for b
+Returning 118 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5859678169202630406 for p
+Returning 8524230148941424032 for b
+Returning 117 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -7853356374563502535 for p
+Returning -5774223853464120688 for b
+Returning 116 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2323599565587649548 for p
+Returning -6901876997539556160 for b
+Returning 115 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 412883174011732195 for p
+Returning -3238932393617611984 for b
+Returning 114 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4635539209578227090 for p
+Returning 1275761449832311008 for b
+Returning 113 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5267737307752213347 for p
+Returning 6527996992345945296 for b
+Returning 112 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4870034397482931040 for p
+Returning -939620236094133760 for b
+Returning 111 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7040947599273758695 for p
+Returning -1746136611771568272 for b
+Returning 110 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4328800155049064226 for p
+Returning -6506790505675382752 for b
+Returning 109 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4616817246077150529 for p
+Returning -4027955723502404848 for b
+Returning 108 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -602099887292433804 for p
+Returning -7360304895024213184 for b
+Returning 107 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8006178487694232363 for p
+Returning 2915597042869616560 for b
+Returning 106 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8364898880192828650 for p
+Returning 6995572344530078560 for b
+Returning 105 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2320540107941469221 for p
+Returning -602965311923722928 for b
+Returning 104 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1110154236635632008 for p
+Returning -3397566016829992832 for b
+Returning 103 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3590404180155791023 for p
+Returning 6677834119122785264 for b
+Returning 102 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1098484687325407818 for p
+Returning 9034149396894968480 for b
+Returning 101 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2533148320722657975 for p
+Returning -4103594023365381232 for b
+Returning 100 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6598381285877106140 for p
+Returning -190692888004730432 for b
+Returning 99 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -6693572359291365773 for p
+Returning 7510650578305084464 for b
+Returning 98 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 5011083666791131326 for p
+Returning -8966980357538480672 for b
+Returning 97 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2224256269856328877 for p
+Returning -4210654330430478896 for b
+Returning 96 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -7703459621895558288 for p
+Returning -992967144495331584 for b
+Returning 95 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2551481397081140855 for p
+Returning 2966916871098665072 for b
+Returning 94 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2645404713141181042 for p
+Returning 1416129712313402656 for b
+Returning 93 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6178370972777205329 for p
+Returning 5563824918764928016 for b
+Returning 92 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7648051543718745668 for p
+Returning 314507587655680064 for b
+Returning 91 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -50614512325573957 for p
+Returning -8083033265581676368 for b
+Returning 90 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7830115653978403686 for p
+Returning -5272053113009749920 for b
+Returning 89 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3669032841164375605 for p
+Returning -245550964542114224 for b
+Returning 88 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7219301679038454360 for p
+Returning -7539514114641425024 for b
+Returning 87 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6620561736214681407 for p
+Returning 252881603233320176 for b
+Returning 86 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3269793002392557670 for p
+Returning 8147218761458315168 for b
+Returning 85 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3746602577793787815 for p
+Returning -688564233778817904 for b
+Returning 84 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -7765909155341005908 for p
+Returning 1700996907153223360 for b
+Returning 83 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6809665389201797123 for p
+Returning -8725228117693336272 for b
+Returning 82 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -1018957111053767922 for p
+Returning -6968381850006727968 for b
+Returning 81 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8572256721749382979 for p
+Returning -547506965543430448 for b
+Returning 80 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 444111185164369472 for p
+Returning -4553470120307219456 for b
+Returning 79 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8386554403589886215 for p
+Returning 6645476815240503664 for b
+Returning 78 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6952675877219316162 for p
+Returning 980358381861579296 for b
+Returning 77 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3667936912891550561 for p
+Returning 7241910380916997392 for b
+Returning 76 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 671746524815590932 for p
+Returning 2850405325632531776 for b
+Returning 75 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1658429933759168075 for p
+Returning 676415326793847216 for b
+Returning 74 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7197432986126970806 for p
+Returning -4865514344962345632 for b
+Returning 73 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -6364363419377642427 for p
+Returning -2367139478471194800 for b
+Returning 72 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -9068704667795736792 for p
+Returning -2852811601212175744 for b
+Returning 71 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8477753295799778255 for p
+Returning -3702804771316677136 for b
+Returning 70 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8997583933046515478 for p
+Returning 7378261090038002848 for b
+Returning 69 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8924725879802841239 for p
+Returning -1910969421601671792 for b
+Returning 68 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8266239094946863748 for p
+Returning -2530755176136688704 for b
+Returning 67 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2911367730711711123 for p
+Returning 4715158803438779952 for b
+Returning 66 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 5128831127061307742 for p
+Returning 6362745700523927520 for b
+Returning 65 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 5429986521489287373 for p
+Returning -7349338108046227504 for b
+Returning 64 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2257203281028228368 for p
+Returning -6781935938207497984 for b
+Returning 63 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -235151444505200745 for p
+Returning -8777947690894394768 for b
+Returning 62 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5752727073158644462 for p
+Returning 8124034313646870304 for b
+Returning 61 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8226819524572197775 for p
+Returning 4283323022622457360 for b
+Returning 60 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1722826182370576868 for p
+Returning -997141138952529344 for b
+Returning 59 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7334489460322680283 for p
+Returning 640166157625604784 for b
+Returning 58 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8266831747700875270 for p
+Returning 8457282716251908704 for b
+Returning 57 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2657707340294125995 for p
+Returning 4684807274203928656 for b
+Returning 56 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2451856609843320840 for p
+Returning -2843224473214302336 for b
+Returning 55 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5401313818399628193 for p
+Returning -1071536174714798352 for b
+Returning 54 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -7644888036418666950 for p
+Returning -5572922734287603296 for b
+Returning 53 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7709336527719856761 for p
+Returning 4421793166351406736 for b
+Returning 52 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4390370559366671540 for p
+Returning -454698237982553920 for b
+Returning 51 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 7023140940841479971 for p
+Returning 4654719802536707888 for b
+Returning 50 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -6741621852963910738 for p
+Returning 6631059769303776480 for b
+Returning 49 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 5568568073421196509 for p
+Returning -5039624317171238704 for b
+Returning 48 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -994143275035090976 for p
+Returning 1362305378538561024 for b
+Returning 47 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 822945744094372391 for p
+Returning 2209584069263889264 for b
+Returning 46 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 884378894466169954 for p
+Returning 7798533354824315936 for b
+Returning 45 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4964175960542110081 for p
+Returning 1571303068697411344 for b
+Returning 44 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -7808556687670533708 for p
+Returning -499212692805089472 for b
+Returning 43 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2410108081762303637 for p
+Returning 8813686715347592112 for b
+Returning 42 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8046560013952582742 for p
+Returning 902490004763271008 for b
+Returning 41 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8769448624829801371 for p
+Returning 1335078117194672464 for b
+Returning 40 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -2015416719156515640 for p
+Returning 8124080999383516288 for b
+Returning 39 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6650310896280899823 for p
+Returning 2596577086064654320 for b
+Returning 38 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8371349620158146678 for p
+Returning -2171595087521546592 for b
+Returning 37 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3793787741855014519 for p
+Returning 7075141070402484112 for b
+Returning 36 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -1821679095621364452 for p
+Returning 8592188611392476608 for b
+Returning 35 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4714122246670521523 for p
+Returning -8655385696398700496 for b
+Returning 34 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -1644204572918863362 for p
+Returning -5996759513423130144 for b
+Returning 33 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 2668537045432276205 for p
+Returning -7068220334959138352 for b
+Returning 32 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4455063207743385264 for p
+Returning 1745139425285487360 for b
+Returning 31 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1939102962112729271 for p
+Returning 3501599658553961584 for b
+Returning 30 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 1457581047977848754 for p
+Returning 2882661547941763360 for b
+Returning 29 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8942054954283967855 for p
+Returning -9181017569481867248 for b
+Returning 28 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5570868757801726588 for p
+Returning 479524585580000320 for b
+Returning 27 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4921415428217227515 for p
+Returning -1758906484808561488 for b
+Returning 26 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3004119472429259942 for p
+Returning -8551371780260162464 for b
+Returning 25 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -6754583504502237579 for p
+Returning 6141752902002227792 for b
+Returning 24 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4703121447121304168 for p
+Returning 7982916746314940800 for b
+Returning 23 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3790791520258244225 for p
+Returning 143868890686320880 for b
+Returning 22 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 9171735992483046618 for p
+Returning 148390346575545248 for b
+Returning 21 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4611328029725076633 for p
+Returning -3579887023112710000 for b
+Returning 20 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4614964527011064556 for p
+Returning -4108402310652583232 for b
+Returning 19 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -493340840041595325 for p
+Returning -8127732735502968528 for b
+Returning 18 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3464029280726729650 for p
+Returning 2692563159241434848 for b
+Returning 17 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -5308217281721122563 for p
+Returning 7556626924863920848 for b
+Returning 16 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 4746989625805017472 for p
+Returning 6423756395498412032 for b
+Returning 15 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8197199056934323015 for p
+Returning -5340094222017231504 for b
+Returning 14 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -823708753105217790 for p
+Returning 8607069895991672352 for b
+Returning 13 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -584145039270692959 for p
+Returning 6167478658998272272 for b
+Returning 12 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3472501069882658132 for p
+Returning 8238352105205178688 for b
+Returning 11 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 8886138451820156043 for p
+Returning 3418315142650295728 for b
+Returning 10 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 9218245646365157622 for p
+Returning 4076327324946794848 for b
+Returning 9 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -3110756433359276923 for p
+Returning -6353825318465205424 for b
+Returning 8 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -97458869017152920 for p
+Returning 3088745735077035648 for b
+Returning 7 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 3272987541336045071 for p
+Returning 5351426599706143216 for b
+Returning 6 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -9098432261388081622 for p
+Returning -4980842345307649888 for b
+Returning 5 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -550541423709906007 for p
+Returning -8284503133613688432 for b
+Returning 4 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning 6945253246758360252 for p
+Returning 541030067140685760 for b
+Returning 3 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -4376180080926856237 for p
+Returning -6123866429505936848 for b
+Returning 2 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -8016717984952319330 for p
+Returning 2369894818518023136 for b
+Returning 1 for i
+Returning 2147483647 for a
+Returning 2147483647 for a
+Returning -518536277892689651 for p
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning 2147483647 for a
+Returning 17 for p
+Returning 17 for p
+Returning 1 for a
+Returning -4241052549131561360 for a
+Returning 6532070000724638496 for b
+Returning -7673621523853351760 for p
+Returning 2147483647 for a
+Returning 6532070000724638496 for b
+Returning 125 for i
+Returning 6532070000724638496 for a
+Returning -7704771784469022192 for b
+Returning 4209902288515890928 for p
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning 6532070000724638496 for a
+Returning -6230765976891546048 for b
+Returning 5683908096093367072 for p
+Returning -1827694214512505904 for b
+Returning 123 for i
+Returning 6532070000724638496 for a
+Returning 7363868196880651952 for b
+Returning 831798196156013456 for p
+Returning -1827694214512505904 for b
+Returning 122 for i
+Returning 6532070000724638496 for a
+Returning -4339854133944281504 for b
+Returning 7574819939040631616 for p
+Returning -1827694214512505904 for b
+Returning 121 for i
+Returning 6532070000724638496 for a
+Returning 485277317009937488 for b
+Returning -6046792683714701008 for p
+Returning 2147483647 for a
+Returning 485277317009937488 for b
+Returning 120 for i
+Returning 485277317009937488 for a
+Returning -6189361975998688384 for b
+Returning -6674639293008625872 for p
+Returning 2147483647 for a
+Returning -6189361975998688384 for b
+Returning 119 for i
+Returning -6189361975998688384 for a
+Returning -3263505673014191376 for b
+Returning 2925856302984497008 for p
+Returning -1827694214512505904 for b
+Returning 118 for i
+Returning -6189361975998688384 for a
+Returning 8524230148941424032 for b
+Returning -3733151948769439200 for p
+Returning 2147483647 for a
+Returning 8524230148941424032 for b
+Returning 117 for i
+Returning 8524230148941424032 for a
+Returning -5774223853464120688 for b
+Returning 4148290071304006896 for p
+Returning -1827694214512505904 for b
+Returning 116 for i
+Returning 8524230148941424032 for a
+Returning -6901876997539556160 for b
+Returning 3020636927228571424 for p
+Returning -1827694214512505904 for b
+Returning 115 for i
+Returning 8524230148941424032 for a
+Returning -3238932393617611984 for b
+Returning 6683581531150515600 for p
+Returning -1827694214512505904 for b
+Returning 114 for i
+Returning 8524230148941424032 for a
+Returning 1275761449832311008 for b
+Returning -7248468699109113024 for p
+Returning 2147483647 for a
+Returning 1275761449832311008 for b
+Returning 113 for i
+Returning 1275761449832311008 for a
+Returning 6527996992345945296 for b
+Returning 5252235542513634288 for p
+Returning -1827694214512505904 for b
+Returning 112 for i
+Returning 1275761449832311008 for a
+Returning -939620236094133760 for b
+Returning -2215381685926444768 for p
+Returning 2147483647 for a
+Returning -939620236094133760 for b
+Returning 111 for i
+Returning -939620236094133760 for a
+Returning -1746136611771568272 for b
+Returning -806516375677434512 for p
+Returning 2147483647 for a
+Returning -1746136611771568272 for b
+Returning 110 for i
+Returning -1746136611771568272 for a
+Returning -6506790505675382752 for b
+Returning -4760653893903814480 for p
+Returning 2147483647 for a
+Returning -6506790505675382752 for b
+Returning 109 for i
+Returning -6506790505675382752 for a
+Returning -4027955723502404848 for b
+Returning 2478834782172977904 for p
+Returning -1827694214512505904 for b
+Returning 108 for i
+Returning -6506790505675382752 for a
+Returning -7360304895024213184 for b
+Returning -853514389348830432 for p
+Returning 2147483647 for a
+Returning -7360304895024213184 for b
+Returning 107 for i
+Returning -7360304895024213184 for a
+Returning 2915597042869616560 for b
+Returning -8170842135815721872 for p
+Returning 2147483647 for a
+Returning 2915597042869616560 for b
+Returning 106 for i
+Returning 2915597042869616560 for a
+Returning 6995572344530078560 for b
+Returning 4079975301660462000 for p
+Returning -1827694214512505904 for b
+Returning 105 for i
+Returning 2915597042869616560 for a
+Returning -602965311923722928 for b
+Returning -3518562354793339488 for p
+Returning 2147483647 for a
+Returning -602965311923722928 for b
+Returning 104 for i
+Returning -602965311923722928 for a
+Returning -3397566016829992832 for b
+Returning -2794600704906269904 for p
+Returning 2147483647 for a
+Returning -3397566016829992832 for b
+Returning 103 for i
+Returning -3397566016829992832 for a
+Returning 6677834119122785264 for b
+Returning -8371343937756773520 for p
+Returning 2147483647 for a
+Returning 6677834119122785264 for b
+Returning 102 for i
+Returning 6677834119122785264 for a
+Returning 9034149396894968480 for b
+Returning 2356315277772183216 for p
+Returning -1827694214512505904 for b
+Returning 101 for i
+Returning 6677834119122785264 for a
+Returning -4103594023365381232 for b
+Returning 7665315931221385120 for p
+Returning -1827694214512505904 for b
+Returning 100 for i
+Returning 6677834119122785264 for a
+Returning -190692888004730432 for b
+Returning -6868527007127515696 for p
+Returning 2147483647 for a
+Returning -190692888004730432 for b
+Returning 99 for i
+Returning -190692888004730432 for a
+Returning 7510650578305084464 for b
+Returning 7701343466309814896 for p
+Returning -1827694214512505904 for b
+Returning 98 for i
+Returning -190692888004730432 for a
+Returning -8966980357538480672 for b
+Returning -8776287469533750240 for p
+Returning 2147483647 for a
+Returning -8966980357538480672 for b
+Returning 97 for i
+Returning -8966980357538480672 for a
+Returning -4210654330430478896 for b
+Returning 4756326027108001776 for p
+Returning -1827694214512505904 for b
+Returning 96 for i
+Returning -8966980357538480672 for a
+Returning -992967144495331584 for b
+Returning 7974013213043149088 for p
+Returning -1827694214512505904 for b
+Returning 95 for i
+Returning -8966980357538480672 for a
+Returning 2966916871098665072 for b
+Returning -6512846845072405872 for p
+Returning 2147483647 for a
+Returning 2966916871098665072 for b
+Returning 94 for i
+Returning 2966916871098665072 for a
+Returning 1416129712313402656 for b
+Returning -1550787158785262416 for p
+Returning 2147483647 for a
+Returning 1416129712313402656 for b
+Returning 93 for i
+Returning 1416129712313402656 for a
+Returning 5563824918764928016 for b
+Returning 4147695206451525360 for p
+Returning -1827694214512505904 for b
+Returning 92 for i
+Returning 1416129712313402656 for a
+Returning 314507587655680064 for b
+Returning -1101622124657722592 for p
+Returning 2147483647 for a
+Returning 314507587655680064 for b
+Returning 91 for i
+Returning 314507587655680064 for a
+Returning -8083033265581676368 for b
+Returning -8397540853237356432 for p
+Returning 2147483647 for a
+Returning -8083033265581676368 for b
+Returning 90 for i
+Returning -8083033265581676368 for a
+Returning -5272053113009749920 for b
+Returning 2810980152571926448 for p
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -8083033265581676368 for a
+Returning -245550964542114224 for b
+Returning 7837482301039562144 for p
+Returning -1827694214512505904 for b
+Returning 88 for i
+Returning -8083033265581676368 for a
+Returning -7539514114641425024 for b
+Returning 543519150940251344 for p
+Returning -1827694214512505904 for b
+Returning 87 for i
+Returning -8083033265581676368 for a
+Returning 252881603233320176 for b
+Returning 8335914868814996544 for p
+Returning -1827694214512505904 for b
+Returning 86 for i
+Returning -8083033265581676368 for a
+Returning 8147218761458315168 for b
+Returning -2216492046669560080 for p
+Returning 2147483647 for a
+Returning 8147218761458315168 for b
+Returning 85 for i
+Returning 8147218761458315168 for a
+Returning -688564233778817904 for b
+Returning -8835782995237133072 for p
+Returning 2147483647 for a
+Returning -688564233778817904 for b
+Returning 84 for i
+Returning -688564233778817904 for a
+Returning 1700996907153223360 for b
+Returning 2389561140932041264 for p
+Returning -1827694214512505904 for b
+Returning 83 for i
+Returning -688564233778817904 for a
+Returning -8725228117693336272 for b
+Returning -8036663883914518368 for p
+Returning 2147483647 for a
+Returning -8725228117693336272 for b
+Returning 82 for i
+Returning -8725228117693336272 for a
+Returning -6968381850006727968 for b
+Returning 1756846267686608304 for p
+Returning -1827694214512505904 for b
+Returning 81 for i
+Returning -8725228117693336272 for a
+Returning -547506965543430448 for b
+Returning 8177721152149905824 for p
+Returning -1827694214512505904 for b
+Returning 80 for i
+Returning -8725228117693336272 for a
+Returning -4553470120307219456 for b
+Returning 4171757997386116816 for p
+Returning -1827694214512505904 for b
+Returning 79 for i
+Returning -8725228117693336272 for a
+Returning 6645476815240503664 for b
+Returning -3076039140775711680 for p
+Returning 2147483647 for a
+Returning 6645476815240503664 for b
+Returning 78 for i
+Returning 6645476815240503664 for a
+Returning 980358381861579296 for b
+Returning -5665118433378924368 for p
+Returning 2147483647 for a
+Returning 980358381861579296 for b
+Returning 77 for i
+Returning 980358381861579296 for a
+Returning 7241910380916997392 for b
+Returning 6261551999055418096 for p
+Returning -1827694214512505904 for b
+Returning 76 for i
+Returning 980358381861579296 for a
+Returning 2850405325632531776 for b
+Returning 1870046943770952480 for p
+Returning -1827694214512505904 for b
+Returning 75 for i
+Returning 980358381861579296 for a
+Returning 676415326793847216 for b
+Returning -303943055067732080 for p
+Returning 2147483647 for a
+Returning 676415326793847216 for b
+Returning 74 for i
+Returning 676415326793847216 for a
+Returning -4865514344962345632 for b
+Returning -5541929671756192848 for p
+Returning 2147483647 for a
+Returning -4865514344962345632 for b
+Returning 73 for i
+Returning -4865514344962345632 for a
+Returning -2367139478471194800 for b
+Returning 2498374866491150832 for p
+Returning -1827694214512505904 for b
+Returning 72 for i
+Returning -4865514344962345632 for a
+Returning -2852811601212175744 for b
+Returning 2012702743750169888 for p
+Returning -1827694214512505904 for b
+Returning 71 for i
+Returning -4865514344962345632 for a
+Returning -3702804771316677136 for b
+Returning 1162709573645668496 for p
+Returning -1827694214512505904 for b
+Returning 70 for i
+Returning -4865514344962345632 for a
+Returning 7378261090038002848 for b
+Returning -6202968638709203136 for p
+Returning 2147483647 for a
+Returning 7378261090038002848 for b
+Returning 69 for i
+Returning 7378261090038002848 for a
+Returning -1910969421601671792 for b
+Returning 9157513562069876976 for p
+Returning -1827694214512505904 for b
+Returning 68 for i
+Returning 7378261090038002848 for a
+Returning -2530755176136688704 for b
+Returning 8537727807534860064 for p
+Returning -1827694214512505904 for b
+Returning 67 for i
+Returning 7378261090038002848 for a
+Returning 4715158803438779952 for b
+Returning -2663102286599222896 for p
+Returning 2147483647 for a
+Returning 4715158803438779952 for b
+Returning 66 for i
+Returning 4715158803438779952 for a
+Returning 6362745700523927520 for b
+Returning 1647586897085147568 for p
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning 4715158803438779952 for a
+Returning -7349338108046227504 for b
+Returning 6382247162224544160 for p
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning 4715158803438779952 for a
+Returning -6781935938207497984 for b
+Returning 6949649332063273680 for p
+Returning -1827694214512505904 for b
+Returning 63 for i
+Returning 4715158803438779952 for a
+Returning -8777947690894394768 for b
+Returning 4953637579376376896 for p
+Returning -1827694214512505904 for b
+Returning 62 for i
+Returning 4715158803438779952 for a
+Returning 8124034313646870304 for b
+Returning 3408875510208090352 for p
+Returning -1827694214512505904 for b
+Returning 61 for i
+Returning 4715158803438779952 for a
+Returning 4283323022622457360 for b
+Returning -431835780816322592 for p
+Returning 2147483647 for a
+Returning 4283323022622457360 for b
+Returning 60 for i
+Returning 4283323022622457360 for a
+Returning -997141138952529344 for b
+Returning -5280464161574986704 for p
+Returning 2147483647 for a
+Returning -997141138952529344 for b
+Returning 59 for i
+Returning -997141138952529344 for a
+Returning 640166157625604784 for b
+Returning 1637307296578134128 for p
+Returning -1827694214512505904 for b
+Returning 58 for i
+Returning -997141138952529344 for a
+Returning 8457282716251908704 for b
+Returning -8992320218505113568 for p
+Returning 2147483647 for a
+Returning 8457282716251908704 for b
+Returning 57 for i
+Returning 8457282716251908704 for a
+Returning 4684807274203928656 for b
+Returning -3772475442047980048 for p
+Returning 2147483647 for a
+Returning 4684807274203928656 for b
+Returning 56 for i
+Returning 4684807274203928656 for a
+Returning -2843224473214302336 for b
+Returning -7528031747418230992 for p
+Returning 2147483647 for a
+Returning -2843224473214302336 for b
+Returning 55 for i
+Returning -2843224473214302336 for a
+Returning -1071536174714798352 for b
+Returning 1771688298499503984 for p
+Returning -1827694214512505904 for b
+Returning 54 for i
+Returning -2843224473214302336 for a
+Returning -5572922734287603296 for b
+Returning -2729698261073300960 for p
+Returning 2147483647 for a
+Returning -5572922734287603296 for b
+Returning 53 for i
+Returning -5572922734287603296 for a
+Returning 4421793166351406736 for b
+Returning -8452028173070541584 for p
+Returning 2147483647 for a
+Returning 4421793166351406736 for b
+Returning 52 for i
+Returning 4421793166351406736 for a
+Returning -454698237982553920 for b
+Returning -4876491404333960656 for p
+Returning 2147483647 for a
+Returning -454698237982553920 for b
+Returning 51 for i
+Returning -454698237982553920 for a
+Returning 4654719802536707888 for b
+Returning 5109418040519261808 for p
+Returning -1827694214512505904 for b
+Returning 50 for i
+Returning -454698237982553920 for a
+Returning 6631059769303776480 for b
+Returning 7085758007286330400 for p
+Returning -1827694214512505904 for b
+Returning 49 for i
+Returning -454698237982553920 for a
+Returning -5039624317171238704 for b
+Returning -4584926079188684784 for p
+Returning 2147483647 for a
+Returning -5039624317171238704 for b
+Returning 48 for i
+Returning -5039624317171238704 for a
+Returning 1362305378538561024 for b
+Returning 6401929695709799728 for p
+Returning -1827694214512505904 for b
+Returning 47 for i
+Returning -5039624317171238704 for a
+Returning 2209584069263889264 for b
+Returning 7249208386435127968 for p
+Returning -1827694214512505904 for b
+Returning 46 for i
+Returning -5039624317171238704 for a
+Returning 7798533354824315936 for b
+Returning -5608586401713996976 for p
+Returning 2147483647 for a
+Returning 7798533354824315936 for b
+Returning 45 for i
+Returning 7798533354824315936 for a
+Returning 1571303068697411344 for b
+Returning -6227230286126904592 for p
+Returning 2147483647 for a
+Returning 1571303068697411344 for b
+Returning 44 for i
+Returning 1571303068697411344 for a
+Returning -499212692805089472 for b
+Returning -2070515761502500816 for p
+Returning 2147483647 for a
+Returning -499212692805089472 for b
+Returning 43 for i
+Returning -499212692805089472 for a
+Returning 8813686715347592112 for b
+Returning -9133844665556870032 for p
+Returning 2147483647 for a
+Returning 8813686715347592112 for b
+Returning 42 for i
+Returning 8813686715347592112 for a
+Returning 902490004763271008 for b
+Returning -7911196710584321104 for p
+Returning 2147483647 for a
+Returning 902490004763271008 for b
+Returning 41 for i
+Returning 902490004763271008 for a
+Returning 1335078117194672464 for b
+Returning 432588112431401456 for p
+Returning -1827694214512505904 for b
+Returning 40 for i
+Returning 902490004763271008 for a
+Returning 8124080999383516288 for b
+Returning 7221590994620245280 for p
+Returning -1827694214512505904 for b
+Returning 39 for i
+Returning 902490004763271008 for a
+Returning 2596577086064654320 for b
+Returning 1694087081301383312 for p
+Returning -1827694214512505904 for b
+Returning 38 for i
+Returning 902490004763271008 for a
+Returning -2171595087521546592 for b
+Returning -3074085092284817600 for p
+Returning 2147483647 for a
+Returning -2171595087521546592 for b
+Returning 37 for i
+Returning -2171595087521546592 for a
+Returning 7075141070402484112 for b
+Returning -9200007915785520912 for p
+Returning 2147483647 for a
+Returning 7075141070402484112 for b
+Returning 36 for i
+Returning 7075141070402484112 for a
+Returning 8592188611392476608 for b
+Returning 1517047540989992496 for p
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning 7075141070402484112 for a
+Returning -8655385696398700496 for b
+Returning 2716217306908367008 for p
+Returning -1827694214512505904 for b
+Returning 34 for i
+Returning 7075141070402484112 for a
+Returning -5996759513423130144 for b
+Returning 5374843489883937360 for p
+Returning -1827694214512505904 for b
+Returning 33 for i
+Returning 7075141070402484112 for a
+Returning -7068220334959138352 for b
+Returning 4303382668347929152 for p
+Returning -1827694214512505904 for b
+Returning 32 for i
+Returning 7075141070402484112 for a
+Returning 1745139425285487360 for b
+Returning -5330001645116996752 for p
+Returning 2147483647 for a
+Returning 1745139425285487360 for b
+Returning 31 for i
+Returning 1745139425285487360 for a
+Returning 3501599658553961584 for b
+Returning 1756460233268474224 for p
+Returning -1827694214512505904 for b
+Returning 30 for i
+Returning 1745139425285487360 for a
+Returning 2882661547941763360 for b
+Returning 1137522122656276000 for p
+Returning -1827694214512505904 for b
+Returning 29 for i
+Returning 1745139425285487360 for a
+Returning -9181017569481867248 for b
+Returning 7520587078942197008 for p
+Returning -1827694214512505904 for b
+Returning 28 for i
+Returning 1745139425285487360 for a
+Returning 479524585580000320 for b
+Returning -1265614839705487040 for p
+Returning 2147483647 for a
+Returning 479524585580000320 for b
+Returning 27 for i
+Returning 479524585580000320 for a
+Returning -1758906484808561488 for b
+Returning -2238431070388561808 for p
+Returning 2147483647 for a
+Returning -1758906484808561488 for b
+Returning 26 for i
+Returning -1758906484808561488 for a
+Returning -8551371780260162464 for b
+Returning -6792465295451600976 for p
+Returning 2147483647 for a
+Returning -8551371780260162464 for b
+Returning 25 for i
+Returning -8551371780260162464 for a
+Returning 6141752902002227792 for b
+Returning -3753619391447161360 for p
+Returning 2147483647 for a
+Returning 6141752902002227792 for b
+Returning 24 for i
+Returning 6141752902002227792 for a
+Returning 7982916746314940800 for b
+Returning 1841163844312713008 for p
+Returning -1827694214512505904 for b
+Returning 23 for i
+Returning 6141752902002227792 for a
+Returning 143868890686320880 for b
+Returning -5997884011315906912 for p
+Returning 2147483647 for a
+Returning 143868890686320880 for b
+Returning 22 for i
+Returning 143868890686320880 for a
+Returning 148390346575545248 for b
+Returning 4521455889224368 for p
+Returning -1827694214512505904 for b
+Returning 21 for i
+Returning 143868890686320880 for a
+Returning -3579887023112710000 for b
+Returning -3723755913799030880 for p
+Returning 2147483647 for a
+Returning -3579887023112710000 for b
+Returning 20 for i
+Returning -3579887023112710000 for a
+Returning -4108402310652583232 for b
+Returning -528515287539873232 for p
+Returning 2147483647 for a
+Returning -4108402310652583232 for b
+Returning 19 for i
+Returning -4108402310652583232 for a
+Returning -8127732735502968528 for b
+Returning -4019330424850385296 for p
+Returning 2147483647 for a
+Returning -8127732735502968528 for b
+Returning 18 for i
+Returning -8127732735502968528 for a
+Returning 2692563159241434848 for b
+Returning -7626448178965148240 for p
+Returning 2147483647 for a
+Returning 2692563159241434848 for b
+Returning 17 for i
+Returning 2692563159241434848 for a
+Returning 7556626924863920848 for b
+Returning 4864063765622486000 for p
+Returning -1827694214512505904 for b
+Returning 16 for i
+Returning 2692563159241434848 for a
+Returning 6423756395498412032 for b
+Returning 3731193236256977184 for p
+Returning -1827694214512505904 for b
+Returning 15 for i
+Returning 2692563159241434848 for a
+Returning -5340094222017231504 for b
+Returning -8032657381258666352 for p
+Returning 2147483647 for a
+Returning -5340094222017231504 for b
+Returning 14 for i
+Returning -5340094222017231504 for a
+Returning 8607069895991672352 for b
+Returning -4499579955700647760 for p
+Returning 2147483647 for a
+Returning 8607069895991672352 for b
+Returning 13 for i
+Returning 8607069895991672352 for a
+Returning 6167478658998272272 for b
+Returning -2439591236993400080 for p
+Returning 2147483647 for a
+Returning 6167478658998272272 for b
+Returning 12 for i
+Returning 6167478658998272272 for a
+Returning 8238352105205178688 for b
+Returning 2070873446206906416 for p
+Returning -1827694214512505904 for b
+Returning 11 for i
+Returning 6167478658998272272 for a
+Returning 3418315142650295728 for b
+Returning -2749163516347976544 for p
+Returning 2147483647 for a
+Returning 3418315142650295728 for b
+Returning 10 for i
+Returning 3418315142650295728 for a
+Returning 4076327324946794848 for b
+Returning 658012182296499120 for p
+Returning -1827694214512505904 for b
+Returning 9 for i
+Returning 3418315142650295728 for a
+Returning -6353825318465205424 for b
+Returning 8674603612594050464 for p
+Returning -1827694214512505904 for b
+Returning 8 for i
+Returning 3418315142650295728 for a
+Returning 3088745735077035648 for b
+Returning -329569407573260080 for p
+Returning 2147483647 for a
+Returning 3088745735077035648 for b
+Returning 7 for i
+Returning 3088745735077035648 for a
+Returning 5351426599706143216 for b
+Returning 2262680864629107568 for p
+Returning -1827694214512505904 for b
+Returning 6 for i
+Returning 3088745735077035648 for a
+Returning -4980842345307649888 for b
+Returning -8069588080384685536 for p
+Returning 2147483647 for a
+Returning -4980842345307649888 for b
+Returning 5 for i
+Returning -4980842345307649888 for a
+Returning -8284503133613688432 for b
+Returning -3303660788306038544 for p
+Returning 2147483647 for a
+Returning -8284503133613688432 for b
+Returning 4 for i
+Returning -8284503133613688432 for a
+Returning 541030067140685760 for b
+Returning 8825533200754374192 for p
+Returning -1827694214512505904 for b
+Returning 3 for i
+Returning -8284503133613688432 for a
+Returning -6123866429505936848 for b
+Returning 2160636704107751584 for p
+Returning -1827694214512505904 for b
+Returning 2 for i
+Returning -8284503133613688432 for a
+Returning 2369894818518023136 for b
+Returning -7792346121577840048 for p
+Returning 2147483647 for a
+Returning 2369894818518023136 for b
+Returning 1 for i
+Returning 2369894818518023136 for a
+Returning -1827694214512505904 for b
+Returning -4197589033030529040 for p
+Returning 2147483647 for a
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning 2147483647 for a
+Returning 1 for f
+Returning 2147483647 for a
+Returning -1827694214512505904 for b
+Returning -1827694216659989551 for p
+Returning 2147483647 for a
+Returning -1827694214512505904 for b
+Returning 125 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 123 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 122 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 121 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 120 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 119 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 118 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 117 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 116 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 115 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 114 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 113 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 112 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 111 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 110 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 109 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 108 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 107 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 106 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 105 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 104 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 103 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 102 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 101 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 100 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 99 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 98 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 97 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 96 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 95 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 94 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 93 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 92 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 91 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 90 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 88 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 87 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 86 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 85 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 84 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 83 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 82 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 81 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 80 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 79 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 78 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 77 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 76 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 75 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 74 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 73 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 72 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 71 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 70 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 69 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 68 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 67 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 66 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 63 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 62 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 61 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 60 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 59 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 58 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 57 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 56 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 55 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 54 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 53 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 52 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 51 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 50 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 49 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 48 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 47 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 46 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 45 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 44 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 43 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 42 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 41 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 40 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 39 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 38 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 37 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 36 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 34 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 33 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 32 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 31 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 30 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 29 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 28 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 27 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 26 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 25 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 24 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 23 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 22 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 21 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 20 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 19 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 18 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 17 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 16 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 15 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 14 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 13 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 12 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 11 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 10 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 9 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 8 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 7 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 6 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 5 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 4 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 3 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 2 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 1 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 0 for i
+Returning -1827694214512505904 for a
+Returning 1 for f
+Returning 2147483647 for a
+Returning -1827694214512505904 for b
+Returning -1827694216659989551 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 125 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 123 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 122 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 121 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 120 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 119 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 118 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 117 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 116 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 115 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 114 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 113 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 112 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 111 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 110 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 109 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 108 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 107 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 106 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 105 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 104 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 103 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 102 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 101 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 100 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 99 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 98 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 97 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 96 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 95 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 94 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 93 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 92 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 91 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 90 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 88 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 87 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 86 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 85 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 84 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 83 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 82 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 81 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 80 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 79 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 78 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 77 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 76 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 75 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 74 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 73 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 72 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 71 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 70 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 69 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 68 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 67 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 66 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 63 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 62 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 61 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 60 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 59 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 58 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 57 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 56 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 55 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 54 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 53 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 52 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 51 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 50 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 49 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 48 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 47 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 46 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 45 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 44 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 43 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 42 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 41 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 40 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 39 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 38 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 37 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 36 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 34 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 33 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 32 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 31 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 30 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 29 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 28 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 27 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 26 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 25 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 24 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 23 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 22 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 21 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 20 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 19 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 18 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 17 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 16 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 15 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 14 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 13 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 12 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 11 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 10 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 9 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 8 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 7 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 6 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 5 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 4 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 3 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 2 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 1 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning -1827694214512505904 for a
+Returning 1 for f
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 125 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 123 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 122 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 121 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 120 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 119 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 118 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 117 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 116 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 115 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 114 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 113 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 112 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 111 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 110 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 109 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 108 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 107 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 106 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 105 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 104 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 103 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 102 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 101 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 100 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 99 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 98 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 97 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 96 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 95 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 94 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 93 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 92 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 91 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 90 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 88 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 87 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 86 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 85 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 84 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 83 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 82 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 81 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 80 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 79 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 78 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 77 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 76 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 75 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 74 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 73 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 72 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 71 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 70 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 69 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 68 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 67 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 66 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 63 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 62 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 61 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 60 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 59 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 58 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 57 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 56 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 55 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 54 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 53 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 52 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 51 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 50 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 49 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 48 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 47 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 46 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 45 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 44 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 43 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 42 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 41 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 40 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 39 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 38 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 37 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 36 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 34 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 33 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 32 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 31 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 30 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 29 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 28 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 27 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 26 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 25 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 24 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 23 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 22 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 21 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 20 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 19 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 18 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 17 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 16 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 15 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 14 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 13 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 12 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 11 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 10 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 9 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 8 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 7 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 6 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 5 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 4 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 3 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning 2147483647 for b
+Returning 2 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 1 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning -1827694214512505904 for a
+Returning 1 for f
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 125 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 123 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 122 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 121 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 120 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 119 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 118 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 117 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 116 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 115 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 114 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 113 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 112 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 111 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 110 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 109 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 108 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 107 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 106 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 105 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 104 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 103 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 102 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 101 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 100 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 99 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 98 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 97 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 96 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 95 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 94 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 93 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 92 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 91 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 90 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 88 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 87 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 86 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 85 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 84 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 83 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 82 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 81 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 80 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 79 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 78 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 77 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 76 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 75 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 74 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 73 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 72 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 71 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 70 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 69 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 68 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 67 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 66 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 63 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 62 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 61 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 60 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 59 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 58 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 57 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 56 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 55 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 54 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 53 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 52 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 51 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 50 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 49 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 48 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 47 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 46 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 45 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 44 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 43 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 42 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 41 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 40 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 39 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 38 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 37 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 36 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 34 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 33 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 32 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 31 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 30 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 29 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 28 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 27 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 26 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 25 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 24 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 23 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 22 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 21 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 20 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 19 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 18 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 17 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 16 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 15 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 14 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 13 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 12 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 11 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 10 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 9 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 8 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 7 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 6 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 5 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 4 for i
+Returning -1827694214512505904 for a
+Returning 2147483647 for b
+Returning 1827694216659989551 for p
+Returning -1827694214512505904 for b
+Returning 3 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 2 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 1 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning -1827694214512505904 for a
+Returning 1 for f
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 125 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 124 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 123 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 122 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 121 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 120 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 119 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 118 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 117 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 116 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 115 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 114 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 113 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 112 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 111 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 110 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 109 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 108 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 107 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 106 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 105 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 104 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 103 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 102 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 101 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 100 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 99 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 98 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 97 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 96 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 95 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 94 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 93 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 92 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 91 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 90 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 89 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 88 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 87 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 86 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 85 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 84 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 83 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 82 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 81 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 80 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 79 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 78 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 77 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 76 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 75 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 74 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 73 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 72 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 71 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 70 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 69 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 68 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 67 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 66 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 65 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 64 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 63 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 62 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 61 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 60 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 59 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 58 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 57 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 56 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 55 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 54 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 53 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 52 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 51 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 50 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 49 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 48 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 47 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 46 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 45 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 44 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 43 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 42 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 41 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 40 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 39 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 38 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 37 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 36 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 35 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 34 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 33 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 32 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 31 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 30 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 29 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 28 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 27 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 26 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 25 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 24 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 23 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 22 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 21 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 20 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 19 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 18 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 17 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 16 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 15 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 14 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 13 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 12 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 11 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 10 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 9 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 8 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 7 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 6 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 5 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 4 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 3 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 2 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 1 for i
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for p
+Returning -1827694214512505904 for a
+Returning -1827694214512505904 for b
+Returning 0 for i
+Returning -1827694214512505904 for a
+Returning 0 for f
+Returning -1827694214512505904 for a
+Program 1 sent 381 times
+There were a total of 889
